@@ -13,8 +13,8 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
-- script: python --verion
-  displayName: Python vesrion used
+- script: python --version
+  displayName: Python version used
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
